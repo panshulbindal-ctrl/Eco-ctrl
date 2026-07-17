@@ -13,6 +13,8 @@ Completed:
 2. Organized folders
 3. Created README
 
+Learnings - Learnt how to use Github and how it is used not only to upload code but to create an organised repository for a project 
+
 Next Session:
 Research ESP32 architecture and project requirements.
 
@@ -20,3 +22,21 @@ Questions:
 1. Why is ESP32 better than Arduino UNO
 2. How does ESP32 communicate over Wi-Fi?
 3. Which sensors should I use?
+
+## Session 2 
+
+Date:
+9th July, 2026
+
+Objective:
+Research on esp32 microcontroller.
+
+Completed:
+- Deep research on esp32 - origin, uses, benefits over other microcontrollers, communication system, and compatible devices, sensors and other peripherals
+
+Learnings:
+Learnt about how to use Esp32 and the GPIO pins which will be used to connect sensors and output devices 
+
+Next session:
+Document the project scope- goals, features, and strech goals
+
