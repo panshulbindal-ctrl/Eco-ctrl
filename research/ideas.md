@@ -1,4 +1,4 @@
-Future Features
+## Future Features
 
 1. Mobile dashboard
 
