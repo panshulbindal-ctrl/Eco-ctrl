@@ -40,3 +40,22 @@ Learnt about how to use Esp32 and the GPIO pins which will be used to connect se
 Next session:
 Document the project scope- goals, features, and strech goals
 
+## Session 3 
+
+Date:
+1st August, 2026
+
+Completed:
+- Organized the ECO_CTRL folder
+- Added project scope
+- Added systemarchitecture diagram
+- Created and organised engineering library
+- Added research on GPIO and ADC 
+- Committed all the new changes made to main
+
+Learnings:
+I already had basic knowledge about ADC and GPIO pins as I have already completed IGCSE CS and made a few projects using Arduino UNO. But after doing a deep research on ADC and GPIO pins, I learnt about their types, importance in embedded systems, and how they work on ESP32
+
+Next session:
+Add research on Communication protocols
+
